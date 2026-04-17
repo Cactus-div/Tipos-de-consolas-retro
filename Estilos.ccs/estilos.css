@@ -1,0 +1,15 @@
+body {
+  margin: 20px;
+  font-family: Bahnschrift;
+  background-color: #ccccff;
+  text-transform: lowercase;
+}
+table {
+  border: 5px solid #6666cc;
+  margin: auto;
+  padding-right: 6.9cm;
+  padding-left: 7.3cm;
+  padding-bottom: 0cm;
+  list-style-type: disc;
+  background-color: white;
+}

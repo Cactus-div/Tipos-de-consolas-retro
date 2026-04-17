@@ -1,0 +1,11 @@
+a {
+  border-style: solid;
+  padding: 10px;
+  background-color: #ffffcc;
+  color: #6600cc;
+  text-decoration: none;
+}
+a:hover {
+  border-style: none;
+  color: red;
+}
